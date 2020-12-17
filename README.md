@@ -1,2 +1,5 @@
 # Tutorial-React-by-Tania-Rascia
-pequeno tutorial para a introdução ao React
+
+Pequeno tutorial para a introdução ao React.
+
+https://www.taniarascia.com/getting-started-with-react/
