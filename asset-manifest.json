@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tutorial-React-by-Tania-Rascia/static/css/main.3c5c2f61.chunk.css",
+    "main.js": "/Tutorial-React-by-Tania-Rascia/static/js/main.fd0b0164.chunk.js",
+    "main.js.map": "/Tutorial-React-by-Tania-Rascia/static/js/main.fd0b0164.chunk.js.map",
+    "runtime-main.js": "/Tutorial-React-by-Tania-Rascia/static/js/runtime-main.24cecbe8.js",
+    "runtime-main.js.map": "/Tutorial-React-by-Tania-Rascia/static/js/runtime-main.24cecbe8.js.map",
+    "static/js/2.09bcc6aa.chunk.js": "/Tutorial-React-by-Tania-Rascia/static/js/2.09bcc6aa.chunk.js",
+    "static/js/2.09bcc6aa.chunk.js.map": "/Tutorial-React-by-Tania-Rascia/static/js/2.09bcc6aa.chunk.js.map",
+    "index.html": "/Tutorial-React-by-Tania-Rascia/index.html",
+    "static/css/main.3c5c2f61.chunk.css.map": "/Tutorial-React-by-Tania-Rascia/static/css/main.3c5c2f61.chunk.css.map",
+    "static/js/2.09bcc6aa.chunk.js.LICENSE.txt": "/Tutorial-React-by-Tania-Rascia/static/js/2.09bcc6aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24cecbe8.js",
+    "static/js/2.09bcc6aa.chunk.js",
+    "static/css/main.3c5c2f61.chunk.css",
+    "static/js/main.fd0b0164.chunk.js"
+  ]
+}
