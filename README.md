@@ -2,4 +2,6 @@
 
 Pequeno tutorial para a introdução ao React.
 
-https://www.taniarascia.com/getting-started-with-react/
+Documentação do tutorial: https://www.taniarascia.com/getting-started-with-react/
+
+Tutorial funcionando https://onivaldolotti.github.io/Tutorial-React-by-Tania-Rascia/
